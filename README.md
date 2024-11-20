@@ -4,6 +4,30 @@
 
 ---
 
+## **RAC**
+> *"RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings"*
+> **Authors**: Bonggeun Choi, JeongJae Park, Yoonsung Kim, Jaehyun Park, Youngjoong Ko
+> **Published in**: EMNLP 2024
+
+- **📄 Paper**: [Read on ACL Anthology](https://aclanthology.org/2024.emnlp-industry.108/)
+- **💻 GitHub**: Comming Soon!
+
+---
+
+---
+
+## **Hyper-QKSG**
+> *"Hyper-QKSG: Framework for Automating Query Generation and Knowledge-Snippet Extraction from Tables and Lists"*
+> **Authors**: Dooyoung Kim, Yoonjin Jang, Dongwook Shin, Chanhoon Park, Youngjoong Ko
+> **Published in**: EMNLP 2024
+
+- **📄 Paper**: [Read on ACL Anthology](https://aclanthology.org/2024.emnlp-industry.100/)
+- **💻 GitHub**: Comming Soon!
+
+---
+
+---
+
 ## **BERT-ASE**
 > *"Never Too Late to Learn: Regularizing Gender Bias in Coreference Resolution"*
 > **Authors**: SunYoung Park, Kyuri Choi, Haeun Yu, Youngjoong Ko
