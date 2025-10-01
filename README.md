@@ -4,13 +4,25 @@
 
 ---
 
+## **Decoding Dense Embeddings**
+> *"Decoding Dense Embeddings: Sparse Autoencoders for Interpreting and Discretizing Dense Retrieval"*  
+> **Authors**: Seongwan Park, Taeklim Kim, Youngjoong Ko  
+> **Published in**: EMNLP 2025 (Accepted)
+
+- **📄 Paper**: Coming Soon!
+- **💻 GitHub**: (https://github.com/NLPlab-skku/Decoding-Dense-Embeddings)
+
+---
+
+---
+
 ## **RAC**
 > *"RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings"*  
 > **Authors**: Bonggeun Choi, JeongJae Park, Yoonsung Kim, Jaehyun Park, Youngjoong Ko  
 > **Published in**: EMNLP 2024
 
 - **📄 Paper**: [Read on ACL Anthology](https://aclanthology.org/2024.emnlp-industry.108/)
-- **💻 GitHub**: Comming Soon!
+- **💻 GitHub**: Coming Soon!
 
 ---
 
