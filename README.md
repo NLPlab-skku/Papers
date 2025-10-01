@@ -5,12 +5,24 @@
 ---
 
 ## **Decoding Dense Embeddings**
+> *"ECO Decoding: Entropy-Based Control for Controllability and Fluency in Controllable Dialogue Generation"*  
+> **Authors**: Seungmin Shin, Dooyoung Kim, Youngjoong Ko  
+> **Published in**: EMNLP 2025 (Accepted)
+
+- **📄 Paper**: Coming Soon!
+- **💻 GitHub**: https://github.com/NLPlab-skku/ECO_Decoding
+
+---
+
+---
+
+## **Decoding Dense Embeddings**
 > *"Decoding Dense Embeddings: Sparse Autoencoders for Interpreting and Discretizing Dense Retrieval"*  
 > **Authors**: Seongwan Park, Taeklim Kim, Youngjoong Ko  
 > **Published in**: EMNLP 2025 (Accepted)
 
 - **📄 Paper**: Coming Soon!
-- **💻 GitHub**: (https://github.com/NLPlab-skku/Decoding-Dense-Embeddings)
+- **💻 GitHub**: https://github.com/NLPlab-skku/Decoding-Dense-Embeddings
 
 ---
 
