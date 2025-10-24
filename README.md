@@ -4,7 +4,7 @@
 
 ---
 
-## **Decoding Dense Embeddings**
+## **ECO Decoding**
 > *"ECO Decoding: Entropy-Based Control for Controllability and Fluency in Controllable Dialogue Generation"*  
 > **Authors**: Seungmin Shin, Dooyoung Kim, Youngjoong Ko  
 > **Published in**: EMNLP 2025 (Accepted)
