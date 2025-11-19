@@ -9,7 +9,7 @@
 > **Authors**: Seungmin Shin, Dooyoung Kim, Youngjoong Ko  
 > **Published in**: EMNLP 2025 (Accepted)
 
-- **📄 Paper**: Coming Soon!
+- **📄 Paper**: [Read on ACL Anthology](https://aclanthology.org/2025.emnlp-main.1437/)
 - **💻 GitHub**: https://github.com/NLPlab-skku/ECO_Decoding
 
 ---
@@ -21,7 +21,7 @@
 > **Authors**: Seongwan Park, Taeklim Kim, Youngjoong Ko  
 > **Published in**: EMNLP 2025 (Accepted)
 
-- **📄 Paper**: Coming Soon!
+- **📄 Paper**: [Read on ACL Anthology](https://aclanthology.org/2025.emnlp-main.1345/)
 - **💻 GitHub**: https://github.com/NLPlab-skku/Decoding-Dense-Embeddings
 
 ---
